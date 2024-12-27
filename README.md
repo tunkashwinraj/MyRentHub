@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or support, please contact:
 
 - **Name**: Ashwin Raj Tunk
-- **Email**: [ashwin@example.com](mailto:ashwin@example.com)
-- **LinkedIn**: [linkedin.com/in/ashwinraj](https://www.linkedin.com/in/ashwinraj)
+- **Email**: [tunkashwin96@gmail.com](mailto:tunkashwin96@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tunkashwinraj](https://www.linkedin.com/in/tunkashwinraj)
 
 ---
