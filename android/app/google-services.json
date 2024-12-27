@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35879799357",
+    "project_id": "myrenthubori",
+    "storage_bucket": "myrenthubori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35879799357:android:b03083082a8f9fb0c2f854",
+        "android_client_info": {
+          "package_name": "com.bitwisetech.myrenthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvObBIYYIEmC6ZYG4J6PfPOhthE7EaE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
